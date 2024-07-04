@@ -1,0 +1,11 @@
+/* GLOBAL CUSTOM CSS */
+
+.header-section {
+    background: #031888 !important;
+    padding: 10px 0;
+}
+
+.about-title-bg, .service-title-bg , .contact-title-bg{
+    top: 140px !important;
+    margin-bottom: 140px;
+}
